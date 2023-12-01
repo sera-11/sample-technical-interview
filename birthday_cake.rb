@@ -19,7 +19,7 @@ Birthday cake with 10 blown out candles
 
 =end
 
-require "active_support/core_ext/integer"
+require "active_support"
 
 class BirthdayCake
   attr_accessor :age, :lit
