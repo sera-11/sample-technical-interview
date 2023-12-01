@@ -17,7 +17,7 @@
   "workbench.tree.renderIndentGuides": "always",
   "files.autoSaveDelay": 500,
   "files.exclude": {
-    "**/.git": true,
+    "**/.git": false,
     ".vscode": true,
     ".bundle": true,
     ".gitignore": true,
