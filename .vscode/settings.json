@@ -31,7 +31,7 @@
     "tmp/": true,
     "install-packages": true,
     "main.rb": true,
-    "README.md": true,
+    "README.md": false,
     "app.rb": false,
     "environment.rb": false,
     "bin/": true,
